@@ -36,7 +36,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=iterators
-  license: Apache License (== 2.0)
+  license: Apache 2.0
   summary: Support for iterators, which allow a programmer to traverse through all the elements
     of a vector, list, or other collection of data.
   license_family: APACHE
@@ -45,3 +45,5 @@ extra:
   recipe-maintainers:
     - johanneskoester
     - bgruening
+    - daler
+    - jdblischak
