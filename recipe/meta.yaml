@@ -1,4 +1,4 @@
-{% set version = "1.0.9" %}
+{% set version = "1.0.10" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/iterators_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/iterators/iterators_{{ version }}.tar.gz
-  sha256: de001e063805fdd124953b571ccb0ed2838c55e40cca2e9d283d8a90b0645e9b
+  sha256: a9e1b2302828d4527766ce12fa9ae06faf8d51e819a43f8efef632b6ddf471e8
 
 build:
   number: 0
