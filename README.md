@@ -3,7 +3,7 @@ About r-iterators
 
 Home: https://CRAN.R-project.org/package=iterators
 
-Package license: Apache License (== 2.0)
+Package license: Apache 2.0
 
 Feedstock license: BSD 3-Clause
 
@@ -14,14 +14,16 @@ Summary: Support for iterators, which allow a programmer to traverse through all
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-iterators-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-iterators-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-iterators-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-iterators-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-iterators-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-iterators-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-iterators-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-iterators-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-iterators-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-iterators-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-iterators-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-iterators-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-iterators/badges/version.svg)](https://anaconda.org/conda-forge/r-iterators)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-iterators/badges/downloads.svg)](https://anaconda.org/conda-forge/r-iterators)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--iterators-green.svg)](https://anaconda.org/conda-forge/r-iterators) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-iterators.svg)](https://anaconda.org/conda-forge/r-iterators) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-iterators.svg)](https://anaconda.org/conda-forge/r-iterators) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-iterators.svg)](https://anaconda.org/conda-forge/r-iterators) |
 
 Installing r-iterators
 ======================
