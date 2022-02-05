@@ -1,4 +1,4 @@
-{% set version = "1.0.13" %}
+{% set version = "1.0.14" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -11,7 +11,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/iterators_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/iterators/iterators_{{ version }}.tar.gz
-  sha256: 778e30e4c292da9f94d62acc637cf55273dae258199d847e62658f44840f11a4
+  sha256: cef3075a0930e1408c764e4da56bbadd4f7d14315809df8f38dd51f80ccc677b
 
 build:
   noarch: generic
