@@ -1,11 +1,11 @@
-About r-iterators
-=================
+About r-iterators-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-iterators-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=iterators
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-iterators-feedstock/blob/main/LICENSE.txt)
 
 Summary: Support for iterators, which allow a programmer to traverse through all the elements of a vector, list, or other collection of data.
 
